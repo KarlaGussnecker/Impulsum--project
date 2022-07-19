@@ -1,70 +1,73 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img alt="Impulsum" title="Impulsum" src="https://github.com/KarlaGussnecker/Impulsum--project/blob/main/0e1f6fd4e3f04cf29148781285e884d7-3.png" width="250">
+</p>
+<br/>
+<br/>
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-### `npm start`
+<h1>Impulsum--app</h1>
+<p>This app is an atempt of mine in creating a responsive landing page</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br/>
+<br/>
+<br/>
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Use the package manager [npm](https://www.npmjs.com) to install the Impulsum.
 
-### `npm run build`
+```bash
+git clone https://github.com/KarlaGussnecker/Impulsum--project.git
+npm install
+npm start
+```
+<br/>
+<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tools used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Node.js
+* Javascript
+* React
+* Chakra UI
+* Figma
 
-### `npm run eject`
+<br/>
+<br/>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h2 align="center">Preview</h2>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br/>
+<p align="center">
+  <img src = "https://github.com/KarlaGussnecker/Impulsum--project/blob/main/Screenshot%202022-07-19%20at%2011.51.02.png" >
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Regrets
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The initial request for this project was the usage of the [Composer](https://getcomposer.org) dependecies. However, after many struggles I came to the conclusion that I will not be able to integrate them correctly in the code :anger:. I mainly ended up using the ChakraUI libraries in order to deliver a similiar result, but I would love to learn more about the above dependecies so I will be continuing with my research.
+<br/>
+I also would have loved to migrate the existing code to TypeScript with [ts-migrate](https://www.npmjs.com/package/ts-migrate) but that as well has proven to be a impossible challenge that I decided to conquer some other time in the near future.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Support struggling developers
 
-### Code Splitting
+<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<br/>
+<br/>
+<h1 align="center">THANK YOU!</h1>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
