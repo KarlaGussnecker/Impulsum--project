@@ -11,7 +11,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <h1>Impulsum--app</h1>
-<p>This app is an atempt of mine in creating a responsive landing page</p>
+<p>This app is an atempt of mine in creating a responsive landing page. It was the first time for me using the Chakra UI component libraries and I really enjoyed the process overall. I initially wanted to deploy the application using Heroku but it turned out harder then expected. After a short research I found the Vercel cloud platform and ended up deploying the project there easily and will surely use it in my future work (link below).</p>
 
 
 <br/>
