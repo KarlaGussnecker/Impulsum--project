@@ -68,7 +68,7 @@ I also would have loved to migrate the existing code to TypeScript with [ts-migr
 <br/>
 <br/>
 
-## Support struggling developers
+## Support new developers
 
 <a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
